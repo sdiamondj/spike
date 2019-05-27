@@ -2,7 +2,7 @@ package cn.edu.ncu.spike.entity;
 
 public class Success_info {
     private String product_id;
-    private String user_name;
+    private String username;
     private int state;
     private String create_time;
 
@@ -14,12 +14,12 @@ public class Success_info {
         this.product_id = product_id;
     }
 
-    public String getUser_name() {
-        return user_name;
+    public String getUsername() {
+        return username;
     }
 
-    public void setUser_name(String user_name) {
-        this.user_name = user_name;
+    public void setUsername(String username) {
+        this.username = username;
     }
 
     public int getState() {

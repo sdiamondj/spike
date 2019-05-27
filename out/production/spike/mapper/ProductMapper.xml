@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="cn.edu.ncu.spike.dao.ProductDao">
+    <resultMap id="result_map" type="cn.edu.ncu.spike.entity.Product">
+        <id column="product_id" property="product_id"/>
+        <result column="product_name" property="product_name"/>
+        <result column="number" property="number"/>
+        <result column="create_time" property="create_time"/>
+        <result column="start_time" property="start_time"/>
+        <result column="end_time" property="end_time"/>
+    </resultMap>
+
+    <update id="reduceNumber">
+        update product set number = number - 1
+        where product_id = #{product_id}
+        and number > 0;
+    </update>
+
+    <select id="getAll" resultMap="result_map">
+        select * from product
+    </select>
+
+    <select id="getById" resultMap="result_map">
+        select * from product
+        where product_id = #{product_id}
+    </select>
+
+</mapper>

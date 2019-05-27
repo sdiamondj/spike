@@ -1,0 +1,56 @@
+.top{
+    width: 100%;
+    height: 50px;
+    background-color: yellowgreen;
+}
+.something{
+    font-size: 20px;
+    color: rebeccapurple;
+    position: absolute;
+    left: 35%;
+    top:15px;
+}
+.picture{
+    position: relative;
+    top:50px;
+    left:100px;
+}
+.center{
+    width: 600px;
+    height: 420px;
+    position: absolute;
+    left:700px;
+    top:105px;
+    padding: 20px;
+}
+.name{
+    font-size: 35px;
+    font-family: 微软雅黑;
+}
+.price{
+    font-size: 30px;
+    color: red;
+}
+.number{
+    font-size: 24px;
+    color: green;
+}
+.time{
+    font-size: 26px;
+    color: purple;
+}
+.sub-button { /* 按钮美化 */
+    width: 200px; /* 宽度 */
+    height: 40px; /* 高度 */
+    border-width: 0px; /* 边框宽度 */
+    border-radius: 3px; /* 边框半径 */
+    background: red; /* 背景颜色 */
+    cursor: pointer; /* 鼠标移入按钮范围时出现手势 */
+    outline: none; /* 不显示轮廓线 */
+    font-family: Microsoft YaHei; /* 设置字体 */
+    color: white; /* 字体颜色 */
+    font-size: 17px; /* 字体大小 */
+}
+.sub-button:hover { /* 鼠标移入按钮范围时改变颜色 */
+    background: #5599FF;
+}

@@ -3,10 +3,11 @@ package cn.edu.ncu.spike.entity;
 public class Product {
     private String product_id;
     private String product_name;
-    private int stock;
+    private int number;
     private String create_time;
     private String start_time;
     private String end_time;
+    private double price;
 
     public String getProduct_id() {
         return product_id;
@@ -24,12 +25,12 @@ public class Product {
         this.product_name = product_name;
     }
 
-    public int getStock() {
-        return stock;
+    public int getNumber() {
+        return number;
     }
 
-    public void setStock(int stock) {
-        this.stock = stock;
+    public void setStock(int number) {
+        this.number = number;
     }
 
     public String getCreate_time() {
@@ -54,5 +55,13 @@ public class Product {
 
     public void setEnd_time(String end_time) {
         this.end_time = end_time;
+    }
+
+    public double getPrice() {
+        return price;
+    }
+
+    public void setPrice(double price) {
+        this.price = price;
     }
 }
