@@ -14,7 +14,7 @@
 <body>
     <div class="top">
         <span class="something">尊敬的${sessionScope.username},
-            <a href="">查看我的抢购</a> </span>
+            <a href="/user/my/${sessionScope.username}">查看我的抢购</a> </span>
     </div>
     <div class="picture">
         <img src="/images/miaosha.jpg">

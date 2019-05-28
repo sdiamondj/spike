@@ -18,4 +18,9 @@
         where product_id =#{product_id} and username=#{username}
     </select>
 
+    <select id="getByUser" resultMap="result_map">
+        select * from success_info
+        where username = #{username}
+    </select>
+
 </mapper>

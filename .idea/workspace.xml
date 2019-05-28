@@ -7,38 +7,71 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d5be741-27c4-407e-88fb-13830a602ff0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/cn/edu/ncu/spike/controller/InfoController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/edu/ncu/spike/controller/ProductController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/edu/ncu/spike/service/ProductService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/edu/ncu/spike/service/Success_infoService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mapper/ProductMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mapper/Success_infoMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/statics/css/byte.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/statics/css/dance.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/statics/images/miaosha.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/views/detail.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/views/success.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/spike.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/spike.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources/c337a40d-24bf-4d79-984e-8ac70f7ef890.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/c337a40d-24bf-4d79-984e-8ac70f7ef890.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Spring_4_3_18_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Spring_4_3_18_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Spring_MVC_4_3_18_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Spring_MVC_4_3_18_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/spike/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/spike/META-INF/MANIFEST.MF" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/spike/WEB-INF/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/spike/WEB-INF/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spike/WEB-INF/classes/cn/edu/ncu/spike/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/spike/WEB-INF/classes/cn/edu/ncu/spike/controller/UserController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spike/WEB-INF/classes/cn/edu/ncu/spike/dao/ProductDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/spike/WEB-INF/classes/cn/edu/ncu/spike/dao/ProductDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spike/WEB-INF/classes/cn/edu/ncu/spike/dao/Success_infoDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/spike/WEB-INF/classes/cn/edu/ncu/spike/dao/Success_infoDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spike/WEB-INF/classes/cn/edu/ncu/spike/entity/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/spike/WEB-INF/classes/cn/edu/ncu/spike/entity/Product.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spike/WEB-INF/classes/cn/edu/ncu/spike/entity/Success_info.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/spike/WEB-INF/classes/cn/edu/ncu/spike/entity/Success_info.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/spike/WEB-INF/classes/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/spike/WEB-INF/classes/jdbc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/spike/WEB-INF/classes/mapper/ProductMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/spike/WEB-INF/classes/mapper/ProductMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/spike/WEB-INF/classes/mapper/Success_infoMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/spike/WEB-INF/classes/mapper/Success_infoMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/spike/WEB-INF/classes/mapper/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/spike/WEB-INF/classes/mapper/UserMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/spike/WEB-INF/dispatcher-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/spike/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/spike/WEB-INF/statics/css/byte.css" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/spike/WEB-INF/statics/css/byte.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/spike/WEB-INF/statics/css/dance.css" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/spike/WEB-INF/statics/css/dance.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/spike/WEB-INF/statics/css/reset.css" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/spike/WEB-INF/statics/css/reset.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/spike/WEB-INF/statics/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/spike/WEB-INF/statics/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/spike/WEB-INF/views/detail.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/spike/WEB-INF/views/detail.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/spike/WEB-INF/views/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/spike/WEB-INF/views/index.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/spike/WEB-INF/views/main.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/spike/WEB-INF/views/main.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/spike/cn/edu/ncu/spike/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/spike/cn/edu/ncu/spike/controller/UserController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/spike/cn/edu/ncu/spike/dao/ProductDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/spike/cn/edu/ncu/spike/dao/ProductDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/spike/cn/edu/ncu/spike/dao/Success_infoDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/spike/cn/edu/ncu/spike/dao/Success_infoDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/spike/cn/edu/ncu/spike/entity/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/spike/cn/edu/ncu/spike/entity/Product.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/spike/cn/edu/ncu/spike/entity/Success_info.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/spike/cn/edu/ncu/spike/entity/Success_info.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/spike/WEB-INF/views/register.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/spike/WEB-INF/views/register.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/spike/WEB-INF/views/success.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/spike/WEB-INF/views/success.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/spike/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/spike/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/spike/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/spike/jdbc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/spike/mapper/ProductMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/spike/mapper/ProductMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/spike/mapper/Success_infoMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/spike/mapper/Success_infoMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/spike/mapper/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/spike/mapper/UserMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spike.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spike.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/edu/ncu/spike/controller/InfoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/edu/ncu/spike/controller/InfoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/edu/ncu/spike/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/edu/ncu/spike/controller/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/edu/ncu/spike/controller/SimpleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/edu/ncu/spike/controller/SimpleController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cn/edu/ncu/spike/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/edu/ncu/spike/controller/UserController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cn/edu/ncu/spike/dao/ProductDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/edu/ncu/spike/dao/ProductDao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cn/edu/ncu/spike/dao/Success_infoDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/edu/ncu/spike/dao/Success_infoDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/edu/ncu/spike/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/edu/ncu/spike/dao/UserDao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cn/edu/ncu/spike/entity/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/edu/ncu/spike/entity/Product.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cn/edu/ncu/spike/entity/Success_info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/edu/ncu/spike/entity/Success_info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/edu/ncu/spike/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/edu/ncu/spike/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/edu/ncu/spike/service/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/edu/ncu/spike/service/ProductService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/edu/ncu/spike/service/Success_infoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/edu/ncu/spike/service/Success_infoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/edu/ncu/spike/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/edu/ncu/spike/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/jdbc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mapper/ProductMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/mapper/ProductMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mapper/Success_infoMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/mapper/Success_infoMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mapper/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/mapper/UserMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/web/META-INF/MANIFEST.MF" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/WEB-INF/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/dispatcher-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/statics/css/byte.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/statics/css/byte.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/statics/css/dance.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/statics/css/dance.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/statics/css/reset.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/statics/css/reset.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/statics/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/statics/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/views/detail.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/views/detail.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/views/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/views/index.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/WEB-INF/views/main.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/views/main.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/views/register.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/views/register.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/views/success.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/views/success.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/my/target/" />
@@ -80,14 +113,14 @@
         <item name="spike@localhost" type="feb32156:DbDataSourceImpl" />
         <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
         <item name="spike: schema" type="76f4a085:MysqlImplModel$Schema" />
-        <item name="product: table" type="285a2a93:MysqlImplModel$Table" />
+        <item name="success_info: table" type="285a2a93:MysqlImplModel$Table" />
       </path>
       <path>
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
         <item name="spike@localhost" type="feb32156:DbDataSourceImpl" />
         <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
         <item name="spike: schema" type="76f4a085:MysqlImplModel$Schema" />
-        <item name="success_info: table" type="285a2a93:MysqlImplModel$Table" />
+        <item name="user: table" type="285a2a93:MysqlImplModel$Table" />
       </path>
     </expand>
     <select />
@@ -98,22 +131,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/edu/ncu/spike/controller/ProductController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="775">
-              <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cn/edu/ncu/spike/controller/InfoController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="625">
-              <caret line="25" column="62" selection-start-line="25" selection-start-column="62" selection-end-line="25" selection-end-column="62" />
+            <state relative-caret-position="275">
+              <caret line="37" column="29" lean-forward="true" selection-start-line="37" selection-start-column="29" selection-end-line="37" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -124,8 +145,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/WEB-INF/views/success.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+            <state relative-caret-position="214">
+              <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -133,8 +154,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/WEB-INF/views/detail.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="700">
-              <caret line="28" column="82" selection-start-line="28" selection-start-column="82" selection-end-line="28" selection-end-column="82" />
+            <state relative-caret-position="213">
+              <caret line="16" column="52" selection-start-line="16" selection-start-column="52" selection-end-line="16" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/WEB-INF/views/main.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="42" column="24" lean-forward="true" selection-start-line="29" selection-start-column="12" selection-end-line="42" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/WEB-INF/views/register.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="363">
+              <caret line="49" column="44" lean-forward="true" selection-start-line="49" selection-start-column="44" selection-end-line="49" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -142,8 +181,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cn/edu/ncu/spike/service/Success_infoService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="950">
-              <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+            <state relative-caret-position="114">
+              <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -152,37 +191,25 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mapper/Success_infoMapper.xml">
+        <entry file="file://$PROJECT_DIR$/src/cn/edu/ncu/spike/controller/UserController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="12" column="41" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+            <state relative-caret-position="250">
+              <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/WEB-INF/applicationContext.xml">
+        <entry file="file://$PROJECT_DIR$/src/cn/edu/ncu/spike/dao/UserDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2050">
-              <caret line="82" column="8" selection-start-line="82" selection-start-column="8" selection-end-line="82" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/WEB-INF/dispatcher-servlet.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="das://c337a40d-24bf-4d79-984e-8ac70f7ef890/schema/spike/table/success_info">
-          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-            <state projectRestartId="d32055aa-d098-424c-858d-428411024c7f">
-              <filtering />
+            <state relative-caret-position="100">
+              <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -190,8 +217,22 @@
       <file pinned="false" current-in-tab="true">
         <entry file="das://c337a40d-24bf-4d79-984e-8ac70f7ef890/schema/spike/table/product">
           <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-            <state projectRestartId="d32055aa-d098-424c-858d-428411024c7f">
-              <filtering />
+            <state projectRestartId="ff4c4e8c-8a16-4587-b601-b4447666cfdb">
+              <filtering>
+                <filter text="" />
+              </filtering>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/edu/ncu/spike/dao/Success_infoDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -217,25 +258,20 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/src/jdbc.properties" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/c337a40d-24bf-4d79-984e-8ac70f7ef890/console.sql" />
         <option value="$PROJECT_DIR$/src/cn/edu/ncu/spike/entity/product.java" />
-        <option value="$PROJECT_DIR$/web/WEB-INF/dispatcher-servlet.xml" />
         <option value="$PROJECT_DIR$/web/WEB-INF/views/test.jsp" />
         <option value="$PROJECT_DIR$/my/pom.xml" />
         <option value="$PROJECT_DIR$/web/WEB-INF/statics/css/style.css" />
         <option value="$PROJECT_DIR$/src/cn/edu/ncu/spike/controller/SimpleController.java" />
         <option value="$PROJECT_DIR$/web/WEB-INF/views/register.jsp" />
         <option value="$PROJECT_DIR$/web/WEB-INF/views/index.jsp" />
-        <option value="$PROJECT_DIR$/src/mapper/UserMapper.xml" />
         <option value="$PROJECT_DIR$/src/cn/edu/ncu/spike/dao/UserDao.java" />
-        <option value="$PROJECT_DIR$/src/cn/edu/ncu/spike/service/UserService.java" />
         <option value="$PROJECT_DIR$/src/cn/edu/ncu/spike/entity/User.java" />
         <option value="$PROJECT_DIR$/web/WEB-INF/statics/js/byte.js" />
         <option value="$PROJECT_DIR$/src/cn/edu/ncu/spike/controller/Test.java" />
         <option value="$PROJECT_DIR$/src/cn/edu/ncu/spike/dao/ProductDao.java" />
-        <option value="$PROJECT_DIR$/src/cn/edu/ncu/spike/controller/UserController.java" />
         <option value="$PROJECT_DIR$/src/mapper/ProductMapper.xml" />
         <option value="$PROJECT_DIR$/src/cn/edu/ncu/spike/service/ProductService.java" />
         <option value="$PROJECT_DIR$/src/cn/edu/ncu/spike/entity/Product.java" />
@@ -244,14 +280,19 @@
         <option value="$PROJECT_DIR$/web/WEB-INF/views/main.jsp" />
         <option value="$PROJECT_DIR$/web/WEB-INF/statics/css/byte.css" />
         <option value="$PROJECT_DIR$/src/cn/edu/ncu/spike/entity/Success_info.java" />
-        <option value="$PROJECT_DIR$/src/cn/edu/ncu/spike/dao/Success_infoDao.java" />
-        <option value="$PROJECT_DIR$/src/mapper/Success_infoMapper.xml" />
-        <option value="$PROJECT_DIR$/web/WEB-INF/views/detail.jsp" />
-        <option value="$PROJECT_DIR$/web/WEB-INF/views/success.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/mapper/UserMapper.xml" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/dispatcher-servlet.xml" />
         <option value="$PROJECT_DIR$/web/WEB-INF/applicationContext.xml" />
-        <option value="$PROJECT_DIR$/src/cn/edu/ncu/spike/controller/InfoController.java" />
-        <option value="$PROJECT_DIR$/src/cn/edu/ncu/spike/service/Success_infoService.java" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
+        <option value="$PROJECT_DIR$/src/mapper/Success_infoMapper.xml" />
+        <option value="$PROJECT_DIR$/src/cn/edu/ncu/spike/service/UserService.java" />
+        <option value="$PROJECT_DIR$/src/cn/edu/ncu/spike/dao/Success_infoDao.java" />
+        <option value="$PROJECT_DIR$/src/cn/edu/ncu/spike/service/Success_infoService.java" />
+        <option value="$PROJECT_DIR$/src/cn/edu/ncu/spike/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/src/cn/edu/ncu/spike/controller/InfoController.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/views/success.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/views/detail.jsp" />
       </list>
     </option>
   </component>
@@ -282,6 +323,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -307,6 +349,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="spike" type="462c0819:PsiDirectoryNode" />
               <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spike" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spike" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="spike" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spike" type="b2602c69:ProjectViewProjectNode" />
@@ -343,7 +392,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -575,6 +623,7 @@
       <workItem from="1558881895343" duration="7000" />
       <workItem from="1558937624703" duration="23133000" />
       <workItem from="1558969910327" duration="56000" />
+      <workItem from="1559030469688" duration="7864000" />
     </task>
     <servers />
   </component>
@@ -593,12 +642,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48149000" />
+    <option name="totallyTimeSpent" value="56013000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.269437" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2727882" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -622,7 +671,7 @@
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="13" />
       <window_info anchor="bottom" id="Database Console" order="14" weight="0.0726257" />
-      <window_info active="true" anchor="bottom" id="Run Dashboard" order="15" visible="true" weight="0.325419" />
+      <window_info anchor="bottom" id="Run Dashboard" order="15" visible="true" weight="0.38687152" />
       <window_info anchor="bottom" id="Application Servers" order="16" weight="0.16061452" />
       <window_info anchor="bottom" id="Messages" order="17" weight="0.32960895" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -631,7 +680,7 @@
       <window_info anchor="right" id="Maven" order="3" weight="0.3297587" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Database" order="6" visible="true" weight="0.17426273" />
+      <window_info active="true" anchor="right" id="Database" order="6" visible="true" weight="0.17426273" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
     </layout>
@@ -669,13 +718,6 @@
     <entry file="das://c337a40d-24bf-4d79-984e-8ac70f7ef890/collation/armscii8_bin">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/my/pom.xml" />
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/statics/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -702,13 +744,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="das://c337a40d-24bf-4d79-984e-8ac70f7ef890/schema/spike/table/user">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state projectRestartId="6f9c1367-593f-40ac-b24f-63ab59c1dbc9">
-          <filtering />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/edu/ncu/spike/entity/User.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
@@ -726,35 +761,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/edu/ncu/spike/dao/UserDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/statics/js/byte.js" />
-    <entry file="file://$PROJECT_DIR$/src/cn/edu/ncu/spike/service/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/edu/ncu/spike/controller/Test.java" />
-    <entry file="file://$PROJECT_DIR$/src/mapper/ProductMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="22" column="48" lean-forward="true" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/views/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="707">
@@ -763,34 +771,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/statics/js/jquery.min.js" />
-    <entry file="file://$PROJECT_DIR$/src/cn/edu/ncu/spike/entity/Product.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="875">
-          <caret line="59" column="30" lean-forward="true" selection-start-line="59" selection-start-column="30" selection-end-line="59" selection-end-column="30" />
-          <folding>
-            <element signature="e#1296#1297#0" expanded="true" />
-            <element signature="e#1338#1339#0" expanded="true" />
-            <element signature="e#1372#1373#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/edu/ncu/spike/service/ProductService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#256#257#0" expanded="true" />
-            <element signature="e#288#289#0" expanded="true" />
-            <element signature="e#386#387#0" expanded="true" />
-            <element signature="e#418#419#0" expanded="true" />
-            <element signature="e#500#501#0" expanded="true" />
-            <element signature="e#532#533#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/statics/css/reset.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -815,44 +795,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/views/main.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="39" column="66" selection-start-line="39" selection-start-column="66" selection-end-line="39" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/views/register.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="49" column="44" lean-forward="true" selection-start-line="49" selection-start-column="44" selection-end-line="49" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/edu/ncu/spike/controller/UserController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="31" column="44" lean-forward="true" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/edu/ncu/spike/controller/SimpleController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/edu/ncu/spike/dao/ProductDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -884,26 +830,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/mapper/UserMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="5" column="51" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/edu/ncu/spike/dao/Success_infoDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/edu/ncu/spike/controller/ProductController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="775">
+        <state>
           <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -911,34 +840,84 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/edu/ncu/spike/controller/InfoController.java">
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="625">
-          <caret line="25" column="62" selection-start-line="25" selection-start-column="62" selection-end-line="25" selection-end-column="62" />
+        <state relative-caret-position="21">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/ncu/spike/service/ProductService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/views/success.jsp">
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/ncu/spike/entity/Product.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#1264#1265#0" expanded="true" />
+            <element signature="e#1292#1293#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/views/detail.jsp">
+    <entry file="file://$PROJECT_DIR$/src/mapper/ProductMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="28" column="82" selection-start-line="28" selection-start-column="82" selection-end-line="28" selection-end-column="82" />
+        <state relative-caret-position="50">
+          <caret line="2" column="46" lean-forward="true" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/edu/ncu/spike/service/Success_infoService.java">
+    <entry file="file://$PROJECT_DIR$/src/mapper/UserMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="950">
-          <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+        <state relative-caret-position="175">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/dispatcher-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-707">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://c337a40d-24bf-4d79-984e-8ac70f7ef890/schema/spike/table/user">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state projectRestartId="ff4c4e8c-8a16-4587-b601-b4447666cfdb">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://c337a40d-24bf-4d79-984e-8ac70f7ef890/schema/spike/table/success_info">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state projectRestartId="ff4c4e8c-8a16-4587-b601-b4447666cfdb">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/ncu/spike/dao/ProductDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -947,36 +926,105 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/mapper/Success_infoMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="41" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+        <state>
+          <caret line="16" column="34" lean-forward="true" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/applicationContext.xml">
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/ncu/spike/service/UserService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2050">
-          <caret line="82" column="8" selection-start-line="82" selection-start-column="8" selection-end-line="82" selection-end-column="8" />
+        <state relative-caret-position="200">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/dispatcher-servlet.xml">
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/ncu/spike/dao/UserDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+        <state relative-caret-position="100">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="das://c337a40d-24bf-4d79-984e-8ac70f7ef890/schema/spike/table/success_info">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state projectRestartId="d32055aa-d098-424c-858d-428411024c7f">
-          <filtering />
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/ncu/spike/dao/Success_infoDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/ncu/spike/service/Success_infoService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/ncu/spike/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/ncu/spike/controller/InfoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="37" column="29" lean-forward="true" selection-start-line="37" selection-start-column="29" selection-end-line="37" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/views/main.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="42" column="24" lean-forward="true" selection-start-line="29" selection-start-column="12" selection-end-line="42" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/views/register.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="49" column="44" lean-forward="true" selection-start-line="49" selection-start-column="44" selection-end-line="49" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/views/success.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/views/detail.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="16" column="52" selection-start-line="16" selection-start-column="52" selection-end-line="16" selection-end-column="52" />
         </state>
       </provider>
     </entry>
     <entry file="das://c337a40d-24bf-4d79-984e-8ac70f7ef890/schema/spike/table/product">
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state projectRestartId="d32055aa-d098-424c-858d-428411024c7f">
-          <filtering />
+        <state projectRestartId="ff4c4e8c-8a16-4587-b601-b4447666cfdb">
+          <filtering>
+            <filter text="" />
+          </filtering>
         </state>
       </provider>
     </entry>

@@ -6,8 +6,9 @@ import cn.edu.ncu.spike.entity.Success_info;
 import org.apache.ibatis.annotations.Param;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import org.springframework.transaction.annotation.Propagation;
 import org.springframework.transaction.annotation.Transactional;
+
+import java.util.List;
 
 @Service
 public class Success_infoService {
@@ -16,7 +17,11 @@ public class Success_infoService {
     @Autowired
     private ProductDao productDao;
 
-    @Transactional(propagation= Propagation.REQUIRED)
+    public List<Success_info> getByUser(@Param("username")String username){
+        return success_infoDao.getByUser(username);
+    }
+
+    @Transactional(rollbackFor=RuntimeException.class)
     public Success_info addSuccessInfo(@Param("product_id")String product_id,
                        @Param("username")String username){
         try{
@@ -33,7 +38,6 @@ public class Success_infoService {
             }
         }catch (RuntimeException e){
             throw new RuntimeException(e.getMessage());
-            //return null;
         }
     }
 }

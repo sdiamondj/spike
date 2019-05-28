@@ -11,7 +11,7 @@
        http://www.springframework.org/schema/mvc/spring-mvc.xsd">
 
     <context:component-scan base-package="cn.edu.ncu.spike.controller"/>
-    <context:component-scan base-package="cn.edu.ncu.spike.service"/>
+
     <!--指定视图解析器-->
     <bean class="org.springframework.web.servlet.view.InternalResourceViewResolver">
         <!-- 视图的路径 -->
