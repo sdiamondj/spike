@@ -11,7 +11,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import javax.servlet.http.HttpSession;
 import java.io.IOException;
-import java.util.ArrayList;
 import java.util.List;
 
 @Controller
@@ -26,16 +25,23 @@ public class InfoController {
     public String submit( @RequestParam("product_id")String product_id,
                           HttpSession session, Model model)throws IOException {
         String username = (String)session.getAttribute("username");
-        Success_info success_info = null;
-        try {
-            success_info = success_infoService.addSuccessInfo(product_id,username);
-        }catch (RuntimeException e){
-            //
-        }
-        if (success_info!=null){
-            List<Success_info> success_infos = success_infoService.getByUser(username);
-            model.addAttribute("info",success_infos);
-            return "success";
+        if(success_infoService.redis(product_id,username)){
+            Success_info success_info = null;
+            try {
+                success_info = success_infoService.addSuccessInfo(product_id,username);
+            }catch (RuntimeException e){
+                //
+            }
+            if (success_info!=null){
+                List<Success_info> success_infos = success_infoService.getByUser(username);
+                model.addAttribute("info",success_infos);
+                return "success";
+            }
+            else{
+                Product product = productService.getById(product_id);
+                model.addAttribute("product",product);
+                return "detail";
+            }
         }
         else{
             Product product = productService.getById(product_id);

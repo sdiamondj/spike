@@ -38,5 +38,14 @@
         <jarDirectory url="file://$USER_HOME$/Desktop/文档作业合集/java web/jar包" recursive="false" type="SOURCES" />
       </library>
     </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/360安全浏览器下载/jedis-2.9.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
   </component>
 </module>

@@ -33,6 +33,7 @@
           <element id="file-copy" path="$USER_HOME$/Desktop/文档作业合集/java web/jar包/jackson-annotations-2.9.7.jar" />
           <element id="file-copy" path="$USER_HOME$/Desktop/文档作业合集/java web/jar包/mchange-commons-java-0.2.12.jar" />
           <element id="file-copy" path="$USER_HOME$/Desktop/文档作业合集/java web/jar包/mysql-connector-java-8.0.12.jar" />
+          <element id="file-copy" path="D:/360安全浏览器下载/jedis-2.9.0.jar" />
         </element>
       </element>
       <element id="javaee-facet-resources" facet="spike/web/Web" />
